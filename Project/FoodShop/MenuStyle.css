@@ -1,0 +1,60 @@
+.bill{
+    border: 4px solid coral;
+    height: 420px;
+    width: 100%;
+    background-color:chocolate;
+    color: white;
+    box-shadow: 5px 5px 5px chocolate;
+    border-radius: 10px;
+    
+}
+.header{
+    margin-top: 10px;
+    border: 8px solid coral;
+    border-radius:10px ;
+    background-color: chocolate;
+    color: white;
+    text-align: center;
+}
+
+.mainArea{
+    line-height: 40px;
+}
+.thanks{
+    text-align: center;
+}
+
+.OrderedItems{
+    border: 2px solid chocolate;
+    height: 450px;
+    width: 100%;
+
+}
+
+.task{
+    border: 2px solid black;
+    height: 70px;
+    width: 100%;
+    background-color: aqua;
+}
+.task:hover{
+    background-color: limegreen;
+    transition: 1s;
+}
+.deletetask{
+    border-radius: 6px;
+}
+.deletetask:hover{
+    background-color: gray;
+    color: white;
+    transition: 1s;
+    cursor:pointer; 
+}
+
+#footerpad{
+    background-color: royalblue;
+    
+    font-size: 20px;
+    font-weight: bolder;
+    
+}
